@@ -1,0 +1,17 @@
+1. jalankan npm run server pada terminal folder majoo-technical-test
+2. jalankan npm run start pada terminal folder majoo-technical-test yang baru
+
+
+Projek masih belum menggunakan redux 
+Untuk Data API di save as ke db.json (menggunakan json server)
+Create berupa add to do baru 
+Update berupa perubahan status dari 0 ke 1 (dan sebaliknya)
+Delete
+Read 
+
+belum menambahkan sorting asc dan desc
+serta belum menambahkan properti createdAt
+
+"I'm just trying to get as good as I can get, 
+I still have a lot to prove but there is always room to learn and improving,
+so I spend a lot of time learning and practicing, even after I feel worthy " - anonymous
